@@ -81,13 +81,11 @@ Motivated and adaptable Computer Science undergraduate with hands-on experience 
 
 <div align="center">
   
-  📍 **Location:** Harare, Zimbabwe
-  
-  ✉️ **Email:** [bondoasher@gmail.com](mailto:bondoasher@gmail.com)
-  
-  🌐 **Portfolio:** [Portfolio Website](asherbondo.vercel.app)
-  
-  👔 **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/asherbondo)
+  📍 <strong>Location:</strong> Harare, Zimbabwe  
+✉️ <strong>Email:</strong> <a href="mailto:bondoasher@gmail.com">bondoasher@gmail.com</a>  
+🌐 <strong>Portfolio:</strong> <a href="https://asherbondo.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio Website</a>  
+👔 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/asherbondo" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
+
   
 </div>
 
