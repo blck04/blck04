@@ -1,108 +1,81 @@
 # Hey there! 👋 I'm Asher Bondo
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;Always+learning+new+things+%F0%9F%A4%93)
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Software+Developer+%F0%9F%92%BB;Full-Stack+Web+Builder+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%93%9A;Building+useful+digital+products+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-## 📝 Summary
+## About me
 
-Motivated and adaptable Computer Science undergraduate with hands-on experience in software development and a solid understanding of IT principles. Proficient in programming, web technologies, and problem-solving in collaborative team environments. Eager to secure a Software Engineer Intern position to apply academic knowledge, enhance technical skills, and contribute to real-world software solutions. Open to opportunities that also involve IT operations and support to broaden overall technical experience.
+I’m a Computer Science student and web developer focused on building polished, practical digital products. I enjoy turning ideas into responsive web experiences, designing clean interfaces, and creating systems that solve real user problems.
 
-## 🎓 Education
+I currently work across frontend and lightweight full-stack development, with a strong interest in product design, UX, and scalable web apps.
 
-### Bachelor of Applied Science - BASc, Computer Science
-**National University of Science and Technology, Bulawayo** | September 2023 - Present
-- Relevant coursework in Object-Oriented Programming as well as Data Structures and Algorithms
+## Current focus
 
-## 💼 Experience
+- Building modern web apps with React, TypeScript, and Next.js
+- Designing user-friendly interfaces for education, business, and student-focused products
+- Creating full-stack projects that blend product thinking with clean engineering
+- Learning and shipping projects that reflect both technical depth and real-world usability
 
-### Freelance Web Developer | Feb 2024 - Present
-- Designed, developed, and deployed front-end web applications with a focus on responsive design and user experience
-- Diagnosed and resolved front-end and back-end issues to enhance application performance
-- Wrote and optimized SQL queries and stored procedures for data management
+## Featured projects
 
-### Web Development Projects – Collaborator | Feb 2024 - Present
-- Built web apps as part of multiple team projects
-- Handled front-end UI design
-- Used Git and GitHub for version control in collaborative workflows
-- Participated in Agile development with task planning and code reviews
+### 🚀 blacklionstudio
+A modern studio-focused web project with a polished business aesthetic and digital-first presentation.
+- Built as a professional brand/studio product experience
+- Focused on clean UI, responsive layouts, and strong visual identity
+- Tech stack: TypeScript, React, modern frontend tooling
 
-## 🚀 Projects
+### 🏠 UniNest
+A student accommodation platform designed to simplify the search and comparison of housing options.
+- Modern listings and booking-oriented UX
+- Focused on practical student needs and accessibility
+- Tech stack: TypeScript, React, web application patterns
 
-### 🏠 Student Accommodation Website
-*Platform for finding and managing student housing*
-- Built using core web technologies
-- Interactive user interface for browsing accommodations
-- Responsive design for mobile and desktop users
-- **Tech Stack:** HTML5, CSS3, JavaScript
-  
-### 💼 Portfolio Website
-*Personal portfolio showcasing skills and projects*
-- Clean, modern design
-- Fully responsive layout
-- **Tech Stack:** React, Next.js,Tailwind Css
+### 📚 StudyBeam
+A productivity-driven study planner designed to help users structure their work and stay consistent.
+- Built around study planning, scheduling, and task organization
+- Emphasizes usability and motivation-driven workflows
+- Tech stack: TypeScript, frontend application development
 
-### 🔐 Web-based Password Manager
-*Secure password storage and management solution*
-- Built with modern web technologies
-- Focus on security and user experience
-- **Tech Stack:** Python, HTML5, CSS3, Bootsrap
+### 💼 PortfolioV3
+A personal portfolio site that showcases my work, skills, and product design direction.
+- Clean personal brand presentation
+- Built to highlight projects, capabilities, and contact information
+- Tech stack: TypeScript, React, modern frontend design
 
-### 📚 Online Learning Platform
-*Interactive platform for educational content*
-- Responsive design for all devices
-- User-friendly interface
-- **Tech Stack:** Python, HTML5, CSS3, Bootsrap
-## 📜 Certifications
-
-- **Responsive Web Design** - FreeCodeCamp
-
-## 🛠️ Technical Skills
+## Skills
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![IT](https://img.shields.io/badge/-IT-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/-Responsive_Design-61DAFB?style=flat-square&logo=react&logoColor=white)
-![User Testing](https://img.shields.io/badge/-User_Testing-FF4500?style=flat-square&logo=uservoice&logoColor=white)
 
 </div>
 
-## 📫 Contact Information
+## Background
 
-<div align="center">
-  
-  📍 <strong>Location:</strong> Harare, Zimbabwe  
-✉️ <strong>Email:</strong> <a href="mailto:bondoasher@gmail.com">bondoasher@gmail.com</a>  
-🌐 <strong>Portfolio:</strong> <a href="https://asherbondo.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio Website</a>  
-👔 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/asherbondo" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
+- Computer Science student at the National University of Science and Technology
+- Experienced in web app development, UI implementation, and product-focused frontend work
+- Comfortable working with both design and software development workflows
+- Interested in building useful, high-quality experiences for real users
 
-  
-</div>
+## Connect
 
-## 🌟 What I'm Up To
-
-- 🔥 Working on exciting freelance web development projects
-- ⚛️ Learning React and Node.js to expand my full-stack development skills
-- 📖 Studying Object-Oriented Programming and Data Structures
-- 🚀 Contributing to open-source projects
-- 💡 Always exploring new technologies and frameworks
+- 🌐 Portfolio: https://asherbondo.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/asherbondo
+- ✉️ Email: bondoasher@gmail.com
+- 📍 Location: Harare, Zimbabwe
 
 ---
 
 <div align="center">
-  
-  **"The best way to predict the future is to create it." 💻✨**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-  
+  <strong>Building practical products, one project at a time.</strong>
 </div>
